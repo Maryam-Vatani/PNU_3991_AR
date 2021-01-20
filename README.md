@@ -18,7 +18,7 @@
 - [دایرکتوری درس]()
 - [رزومه و سوابق کاری](https://maryam-vatani.github.io/MaryamVatani.github.io/) 
 - [انگیزه نامه](https://maryam-vatani.github.io/SOP/)
-- [مدرک جاوا اسکریپ ](https://github.com/Maryam-Vatani/Certificates/blob/main/JavaScript.jpeg)
+- [JavaScript](https://github.com/Maryam-Vatani/Certificates/blob/main/JavaScript.jpeg)
 - [Patchwork](https://github.com/Maryam-Vatani/Certificates/blob/main/Jlord-PatchWork.png)
 
 --------------------
