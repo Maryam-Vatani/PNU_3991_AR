@@ -15,7 +15,7 @@
 ## فعالیت های مشترک
 - [حساب گیت هاب](https://github.com/Maryam-Vatani)
 - [PNU_3991_AR](https://github.com/Maryam-Vatani/PNU_3991_AR)
-- [دایرکتوری درس]()
+- [دایرکتوری درس](https://github.com/Maryam-Vatani/PNU_3991_AR/tree/main/Theory-of-Languages-and-Machines)
 - [رزومه و سوابق کاری](https://maryam-vatani.github.io/MaryamVatani.github.io/) 
 - [انگیزه نامه](https://maryam-vatani.github.io/SOP/)
 - [JavaScript](https://github.com/Maryam-Vatani/Certificates/blob/main/JavaScript.jpeg)
