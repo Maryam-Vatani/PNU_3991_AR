@@ -10,7 +10,7 @@
 <p dir="rtl">شماره دانشجویی : 970170947</p>
 <hr>
 
---------------------------------------------
+--------------------
 
 ## فعالیت های مشترک
 - [حساب گیت هاب](https://github.com/Maryam-Vatani)
@@ -21,7 +21,7 @@
 - [مدرک جاوا اسکریپ ](https://github.com/Maryam-Vatani/Certificates/blob/main/JavaScript.jpeg)
 - [Patchwork](https://github.com/Maryam-Vatani/Certificates/blob/main/Jlord-PatchWork.png)
 
---------------------------------------------
+--------------------
 
 ## فعالیت های درسی
 - [پروژه لاتک](https://github.com/Maryam-Vatani/PNU_3991_AR/tree/main/Theory-of-Languages-and-Machines/%D8%A7%D8%B1%D8%A7%D8%A6%D9%87%20%D9%84%D8%A7%D8%AA%DA%A9)
@@ -29,7 +29,7 @@
 - [لاتک ارائه دو مسئله](https://github.com/Maryam-Vatani/PNU_3991_AR/tree/main/Theory-of-Languages-and-Machines/%D8%A7%D8%B1%D8%A7%D8%A6%D9%87%20%D8%AF%D9%88%20%D9%85%D8%B3%D8%A6%D9%84%D9%87)
 - [ویدئو ارائه دو مسئله]()
 
---------------------------------------------
+--------------------
 
 ## فرم های ارزیابی عمومی و فعالیت مشترک همه دانشجویان
 - [ارزیابی رزومه و انگیزه نامه](https://github.com/Maryam-Vatani/PNU_3991_AR/blob/main/%D8%A7%D8%B1%D8%B2%DB%8C%D8%A7%D8%A8%DB%8C/_General/MV_CV_CheckList_AR_3991.pdf)
@@ -39,7 +39,7 @@
 - [فایل ارزیابی من]()
 
 
---------------------------------------------
+--------------------
 
 ## گروه
 
@@ -59,7 +59,7 @@
     1. [_TLM02-30_سحر ریحانی ناراب](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/30_%D8%B3%D8%AD%D8%B1%20%D8%B1%D9%8A%D8%AD%D8%A7%D9%86%D9%8A%20%D9%86%D8%A7%D8%B1%D8%A7%D8%A8)
     1. [_TLM02-22_محسن حاتمی باروق](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/22_%D9%85%D8%AD%D8%B3%D9%86%20%D8%AD%D8%A7%D8%AA%D9%85%D9%8A%20%D8%A8%D8%A7%D8%B1%D9%88%D9%82)
 
---------------------------------------------
+--------------------
 
 ## روز و ساعت ارائه دروس با استاد رضوی
 
