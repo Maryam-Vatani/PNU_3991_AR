@@ -25,7 +25,7 @@
 
 ## فعالیت های درسی
 - [پروژه لاتک](https://github.com/Maryam-Vatani/PNU_3991_AR/tree/main/Theory-of-Languages-and-Machines/%D8%A7%D8%B1%D8%A7%D8%A6%D9%87%20%D9%84%D8%A7%D8%AA%DA%A9)
-- [ویدئو ارائه فصل دوم - نظریه زبان ها و ماشین ها]()
+- [ویدئو ارائه فصل دوم - نظریه زبان ها و ماشین ها](https://aparat.com/v/wAkDc)
 - [ارائه دو مسئله](https://github.com/Maryam-Vatani/PNU_3991_AR/tree/main/Theory-of-Languages-and-Machines/%D8%A7%D8%B1%D8%A7%D8%A6%D9%87%20%D8%AF%D9%88%20%D9%85%D8%B3%D8%A6%D9%84%D9%87)
 
 --------------------
